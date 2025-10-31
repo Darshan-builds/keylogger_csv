@@ -78,12 +78,9 @@ keylogger-csv/
 ├── keylogger_csv.py          # Main keylogging script
 ├── analyze_keylogs.py        # Analysis and visualization script
 ├── keylogs/                  # Folder for stored CSV log files
-│   └── keylog.csv
-├── banner.png                # GitHub project banner
+│   └── keylog.csv               
 ├── README.md
-├── LICENSE
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ⚠️ Ethical Disclaimer
 This project is developed solely for educational and research purposes.
 Unauthorized use of keylogging software to monitor others without explicit consent is illegal and unethical.
